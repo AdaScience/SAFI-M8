@@ -1,1 +1,8 @@
+Every sample in the dataset was subjected to several inspections. Each sample obtained a different result for each inspection. It is possible to consider the last inspection OP130 as the output that determines whether a product is defective or not: 1 is OK, 2 is defective. In test samples, OP130 reading should be predicted using classification algorithms to determine if the sample is acceptable. the dataset was presented in five files in CSV format
 
+Files
+project.csv - the whole dataset
+Training input.csv - the training input set
+Training ouput.csv - the training output set
+Test input.csv - the test input set
+test output.csv - the test output set
